@@ -1,4 +1,4 @@
-# Advanced Algorithmic Stock Screener
+# Algorithmic Stock Screener
 
 This project is an automated quantitative screening tool built with Python, `yfinance`, and `pandas` to identify bullish market trend reversals and filter out false-positive momentum signals.
 
